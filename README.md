@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on:
-    - Building an infrastructure of agents for [Standard Model Biomedicine, Inc](https://huggingface.co/standardmodelbio)
+    - Building an end-end hospital client for EHR management, watsapp integration, analytics, diagnosis support, and many more features.
 - 🌱 I am currently reading:
     - [Pretrained transformers applied to clinical studies improve predictions of treatment efficacy and associated biomarkers](https://www.nature.com/articles/s41467-025-57181-2)
     - [AI Engineering](https://www.amazon.com/dp/1098166302?&linkCode=sl1&tag=chiphuyen-20&linkId=0a4e5ad4b14080d44c42640550a9291e&language=en_US&ref_=as_li_ss_tl)
